@@ -1,0 +1,15 @@
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\bin\Debug\netcoreapp3.1\ComsumindoWebAPI.exe
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\obj\Debug\netcoreapp3.1\ComsumindoWebAPI.csprojAssemblyReference.cache
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\obj\Debug\netcoreapp3.1\ComsumindoWebAPI.AssemblyInfoInputs.cache
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\obj\Debug\netcoreapp3.1\ComsumindoWebAPI.AssemblyInfo.cs
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\bin\Debug\netcoreapp3.1\ComsumindoWebAPI.deps.json
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\bin\Debug\netcoreapp3.1\ComsumindoWebAPI.runtimeconfig.json
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\bin\Debug\netcoreapp3.1\ComsumindoWebAPI.runtimeconfig.dev.json
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\bin\Debug\netcoreapp3.1\ComsumindoWebAPI.dll
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\bin\Debug\netcoreapp3.1\ComsumindoWebAPI.pdb
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\obj\Debug\netcoreapp3.1\ComsumindoWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\obj\Debug\netcoreapp3.1\ComsumindoWebAPI.csproj.CopyComplete
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\obj\Debug\netcoreapp3.1\ComsumindoWebAPI.dll
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\obj\Debug\netcoreapp3.1\ComsumindoWebAPI.pdb
+C:\Users\beatr\source\repos\ComsumindoWebAPI\ComsumindoWebAPI\obj\Debug\netcoreapp3.1\ComsumindoWebAPI.genruntimeconfig.cache
